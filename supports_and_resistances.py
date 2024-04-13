@@ -24,7 +24,7 @@ def supports_and_resistances(dataframe, rollsize, field_for_support='low', field
 
 if __name__ == "__main__":
     # READ DATA
-    df = pd.read_csv(r"C:\Users\ThinkPadT450s\Documents\data\ADA_4h.csv") 
+    df = pd.read_csv(r"C:\Users\TP\Documents\data\ADA_4h.csv") 
     supports, resistances = supports_and_resistances(df, 11, field_for_support='low', field_for_resistance='high')
     df['Support'] = None
     df.loc[supports.index, "Support"] = supports.values

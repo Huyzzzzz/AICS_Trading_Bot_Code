@@ -1,54 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T09:16:30.009Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="V69c9Qxq0zxuj9Y8_ff9" version="22.1.16" type="github">
-  <diagram name="Page-1" id="Jc1pBtecjDMnf-kuf68Q">
-    <mxGraphModel dx="2192" dy="623" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-05-12T03:58:02.758Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.2.5" etag="MiWK-bJj5QfJugSmlq4U" type="github">
+  <diagram name="Page-1" id="aN-btBAhRNOuvF1A82Mt">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-2" value="Tính toán các chỉ số kỹ thuật" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-347" y="58.75" width="228" height="33" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5zq-_wsz1Ss_zYrBo2Wd-3" target="5zq-_wsz1Ss_zYrBo2Wd-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-3" value="Kiểm tra điều kiện vào lệnh&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="159" y="26.25" width="246" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5zq-_wsz1Ss_zYrBo2Wd-4" target="5zq-_wsz1Ss_zYrBo2Wd-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-4" value="Kiểm tra điều kiện thoát lệnh&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="676" y="26.25" width="246" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5zq-_wsz1Ss_zYrBo2Wd-2" target="5zq-_wsz1Ss_zYrBo2Wd-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="175" y="225" as="sourcePoint" />
-            <mxPoint x="104" y="169" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5zq-_wsz1Ss_zYrBo2Wd-11" target="5zq-_wsz1Ss_zYrBo2Wd-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-11" value="Dữ liệu nến" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-477" y="43.5" width="101" height="63.5" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-13" value="Dữ liệu nến được bổ sung thông tin về thời điểm sẽ thực hiện thoát lệnh" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="950" y="19.75" width="214" height="111" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5zq-_wsz1Ss_zYrBo2Wd-15" target="5zq-_wsz1Ss_zYrBo2Wd-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-15" value="Dữ liệu nến được bổ sung thêm các giá trị chỉ số kỹ thuật&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="21.75" width="214" height="107" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5zq-_wsz1Ss_zYrBo2Wd-17" target="5zq-_wsz1Ss_zYrBo2Wd-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-17" value="Dữ liệu nến được bổ sung thông tin về thời điểm sẽ thực hiện vào lệnh" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="428" y="23.25" width="217.5" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="5zq-_wsz1Ss_zYrBo2Wd-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="5zq-_wsz1Ss_zYrBo2Wd-13" target="5zq-_wsz1Ss_zYrBo2Wd-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
